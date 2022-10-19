@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/62815232/196769521-ef4fb24b-e8d9-4a27-ae4a-e0dc1bd1d2fe.png" width=25/> Hi, I’m @Rikveet  
+<img src="https://user-images.githubusercontent.com/62815232/196769521-ef4fb24b-e8d9-4a27-ae4a-e0dc1bd1d2fe.png" width=25/> Hi, I’m <a href="https://www.google.com/search?q=rikveet">Rikveet</a>  
 <img src="https://user-images.githubusercontent.com/62815232/196764085-3b4a74b8-fb97-453e-9915-715d53105bb0.png" width=25/> I’m interested in Artificial Intelligence, Game dev, Algorithms and Web development.  
 <a href="https://youtube.com/clip/UgkxVoZYXwSF9ptSY4W_8jLttRR8ueTUXwj1"><img src="https://user-images.githubusercontent.com/62815232/196762888-af6f29c9-d3cb-4ca6-9cd4-bd2849f8a8d2.png" width=25/></a> Graduated in 2022 from [Brock University](https://brocku.ca/) with Honours and First class standing in Computer Science and a Minor in Mathematics.  
 <img src="https://user-images.githubusercontent.com/62815232/196769387-77dc01d3-a4f8-4051-a2ae-a872232556a3.png" width=25/> I’m open to collaboration.  
