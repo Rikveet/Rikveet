@@ -7,22 +7,30 @@
     <tr>
         <td>
             <p align="center">
-                <img src='https://user-images.githubusercontent.com/62815232/196773704-0221e118-2cd9-432f-8af7-73505f130b11.png' width=40 href="mailto:rh18vo@gmail.com" />
+                <a href="mailto:rh18vo@gmail.com">
+                    <img src='https://user-images.githubusercontent.com/62815232/196773704-0221e118-2cd9-432f-8af7-73505f130b11.png' width=40 />
+                </a>
             </p>
         </td>
         <td>
             <p align="center">
-                <img src='https://user-images.githubusercontent.com/62815232/196781644-0d3a0b9d-68de-456f-b9f2-78afd0a34265.png' width=40 href="https://discord.com/" />
+                <a href="https://discord.com/">
+                    <img src='https://user-images.githubusercontent.com/62815232/196781644-0d3a0b9d-68de-456f-b9f2-78afd0a34265.png' width=40  />
+                </a>
             </p>
         </td>
         <td>
             <p align="center">
-                <img src='https://user-images.githubusercontent.com/62815232/196785640-55640bbf-39b5-4453-9580-94d27300cc85.png' width=40 href="https://www.linkedin.com/in/rikveet-hayer/" />
+                <a href="https://www.linkedin.com/in/rikveet-hayer/">
+                    <img src='https://user-images.githubusercontent.com/62815232/196785640-55640bbf-39b5-4453-9580-94d27300cc85.png' width=40  />
+                </a>
             </p>
         </td>
         <td>
             <p align="center">
-                <img src='https://user-images.githubusercontent.com/62815232/196786782-e2677dd2-ac0f-4e79-bf20-49fdb475f550.jpeg' width=40 href="https://open.kattis.com/users/rikveet" />
+                <a href="https://open.kattis.com/users/rikveet">
+                    <img src='https://user-images.githubusercontent.com/62815232/196786782-e2677dd2-ac0f-4e79-bf20-49fdb475f550.jpeg' width=40 />
+                </a>
             </p>
         </td>
     </tr>
