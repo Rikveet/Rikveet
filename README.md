@@ -55,6 +55,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikveet&layout=compact&theme=midnight-purple&exclude_repo=github-readme-stats,Asteroids-Unity,Unity-workshop-brick-breaker&hide=cmake" />
 </a>
 
+<img align='center' src='https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet'/>
+
 
 <!---![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rikveet&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikveet&layout=compact&theme=midnight-purple&exclude_repo=github-readme-stats,Asteroids-Unity,Unity-workshop-brick-breaker&hide=cmake)](https://rikveet.github.io/)
