@@ -35,7 +35,7 @@
         </td>
         <td>
             <p align="center">
-                <a href="https://github.com/Rikveet/resume/blob/main/Resume.pdf">
+                <a href="https://github.com/Rikveet/Rikveet/files/10297606/Resume.pdf">
                     <img src='https://user-images.githubusercontent.com/62815232/209411078-25b0a549-e08c-49e4-89f3-56c41f84ac01.png' width=40 />
                 </a>
             </p>
