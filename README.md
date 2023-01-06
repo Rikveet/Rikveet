@@ -60,19 +60,19 @@
     </tr>
 </table>  
 
-
-
 <a href="https://rikveet.github.io/">
   <img align="center" src="https://github-readme-stats-fork-akd2.vercel.app/api/top-langs/?username=rikveet&layout=compact&langs_count=20&theme=midnight-purple&exclude_repo=github-readme-stats&hide=cmake,ShaderLab,HLSL,Mathematica" />
 </a>
+</br></br>
 <details>
-    <summary>📑 Repo Summary</summary>
+    <summary> <img src='https://user-images.githubusercontent.com/62815232/211084275-1740136f-472a-42b6-bec7-f6dd4d59f9d2.png' width=20/> Repo Summary</summary>
     <img align="center" src="https://github-readme-stats-fork-akd2.vercel.app/api?username=rikveet&show_icons=true&theme=midnight-purple&count_private=true" />
     </br>
     <img align='center' src='https://komarev.com/ghpvc/?username=Rikveet&style=flat-square&color=blueviolet'/>
 </details>
 
-# 💻 Recent activity
+## <img src='https://user-images.githubusercontent.com/62815232/211084404-f1c21d43-2f00-4fe7-a3e1-139bc5c9b657.png' width=20/> Recent activity
+
     
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1772](https://github.com/anuraghazra/github-readme-stats/issues/1772) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
