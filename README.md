@@ -60,9 +60,9 @@
     </tr>
 </table>  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rikveet&show_icons=true&theme=midnight-purple" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rikveet&show_icons=true&theme=midnight-purple&count_private=true" />
 <a href="https://rikveet.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikveet&layout=compact&theme=midnight-purple&exclude_repo=github-readme-stats,Asteroids-Unity,Unity-workshop-brick-breaker&hide=cmake" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikveet&layout=compact&langs_count=8&theme=midnight-purple&exclude_repo=github-readme-stats&hide=cmake,ShaderLab,HLSL" />
 </a>
 
 <img align='center' src='https://komarev.com/ghpvc/?username=Rikveet&style=flat-square&color=blueviolet'/>
