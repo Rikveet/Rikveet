@@ -71,10 +71,10 @@
     </br>
     <img align='center' src='https://komarev.com/ghpvc/?username=Rikveet&style=flat-square&color=blueviolet'/>
 </details>
-<details>
-    <summary>💻 Recent activity</summary>
+
+# 💻 Recent activity
     
-    <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 1. 🗣 Commented on [#1772](https://github.com/anuraghazra/github-readme-stats/issues/1772) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 2. ❗️ Opened issue [#98](https://github.com/BrockCSC/brockcsc.github.io/issues/98) in [BrockCSC/brockcsc.github.io](https://github.com/BrockCSC/brockcsc.github.io)
 3. 💪 Opened PR [#97](https://github.com/BrockCSC/brockcsc.github.io/pull/97) in [BrockCSC/brockcsc.github.io](https://github.com/BrockCSC/brockcsc.github.io)
@@ -82,6 +82,4 @@
 5. 🎉 Merged PR [#3](https://github.com/Rikveet/tic-tac-toe-server/pull/3) in [Rikveet/tic-tac-toe-server](https://github.com/Rikveet/tic-tac-toe-server)
 6. 💪 Opened PR [#3](https://github.com/Rikveet/tic-tac-toe-server/pull/3) in [Rikveet/tic-tac-toe-server](https://github.com/Rikveet/tic-tac-toe-server)
 <!--END_SECTION:activity-->
-
-</details>
 
