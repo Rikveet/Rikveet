@@ -62,7 +62,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rikveet&show_icons=true&theme=midnight-purple&count_private=true" />
 <a href="https://rikveet.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikveet&layout=compact&langs_count=8&theme=midnight-purple&exclude_repo=github-readme-stats&hide=cmake,ShaderLab,HLSL" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikveet&layout=compact&langs_count=20&theme=midnight-purple&exclude_repo=github-readme-stats&hide=cmake,ShaderLab,HLSL,Mathematica" />
 </a>
 
 <img align='center' src='https://komarev.com/ghpvc/?username=Rikveet&style=flat-square&color=blueviolet'/>
