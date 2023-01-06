@@ -39,7 +39,7 @@
 </details>
 
 <a href="https://rikveet.github.io/">
-  <img align="center" src="https://github-readme-stats-fork-akd2.vercel.app/api/top-langs/?username=rikveet&layout=compact&langs_count=20&theme=midnight-purple&exclude_repo=github-readme-stats&hide=cmake,ShaderLab,HLSL,Mathematica"/>
+  <img align="center" src="https://github-readme-stats-fork-akd2.vercel.app/api/top-langs/?username=rikveet&layout=compact&langs_count=20&theme=midnight-purple&exclude_repo=github-readme-stats-fork&hide=cmake,ShaderLab,HLSL,Mathematica"/>
 </a>
 </br></br>
 <details>
