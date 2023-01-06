@@ -60,17 +60,17 @@
     </tr>
 </table>  
 
-<img align="center" src="https://github-readme-stats-fork-akd2.vercel.app/api?username=Rikveet&show_icons=true&theme=midnight-purple" />
+
+
 <a href="https://rikveet.github.io/">
-  <img align="center" src="https://github-readme-stats-fork-akd2.vercel.app/api/top-langs/?username=Rikveet&layout=compact&langs_count=20&theme=midnight-purple&exclude_repo=github-readme-stats&hide=cmake,ShaderLab,HLSL,Mathematica" />
+  <img align="center" src="https://github-readme-stats-fork-akd2.vercel.app/api/top-langs/?username=rikveet&layout=compact&langs_count=20&theme=midnight-purple&exclude_repo=github-readme-stats&hide=cmake,ShaderLab,HLSL,Mathematica" />
 </a>
+<details>
+    <summary>📑 Repo Summary</summary>
+    <img align="center" src="https://github-readme-stats-fork-akd2.vercel.app/api?username=rikveet&show_icons=true&theme=midnight-purple&count_private=true" />
+    </br>
+    <img align='center' src='https://komarev.com/ghpvc/?username=Rikveet&style=flat-square&color=blueviolet'/>
+</details>
 
-<img align='center' src='https://komarev.com/ghpvc/?username=Rikveet&style=flat-square&color=blueviolet'/>
+<!--START_SECTION:activity-->
 
-
-<!---![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rikveet&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikveet&layout=compact&theme=midnight-purple&exclude_repo=github-readme-stats,Asteroids-Unity,Unity-workshop-brick-breaker&hide=cmake)](https://rikveet.github.io/)
-Rikveet/Rikveet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.![thinking](https://user-images.githubusercontent.com/62815232/196764070-0c8d5386-e0c7-4504-bde5-b50c52688aed.png)
-
---->
