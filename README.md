@@ -49,18 +49,12 @@
     <img align='center' src='https://komarev.com/ghpvc/?username=Rikveet&style=flat-square&color=blueviolet'/>
 </details>
 
-## <img src='https://user-images.githubusercontent.com/62815232/211084404-f1c21d43-2f00-4fe7-a3e1-139bc5c9b657.png' width=20/> Recent activity
+## 
+<details>
+<summary> <img src='https://user-images.githubusercontent.com/62815232/211084404-f1c21d43-2f00-4fe7-a3e1-139bc5c9b657.png' width=20/> Recent activity </summary>
 
-    
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Rikveet/Rikveet](https://github.com/Rikveet/Rikveet)
-2. ⬆️ Pushed 1 commit(s) to [Rikveet/Rikveet](https://github.com/Rikveet/Rikveet)
-3. ⬆️ Pushed 1 commit(s) to [Rikveet/Rikveet](https://github.com/Rikveet/Rikveet)
-4. ⬆️ Pushed 1 commit(s) to [Rikveet/ajmer](https://github.com/Rikveet/ajmer)
-5. ⬆️ Pushed 1 commit(s) to [Rikveet/Rikveet](https://github.com/Rikveet/Rikveet)
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 8th, 2023, 9:06:41 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+<!--END_SECTION:activity-->
 
+</details>
