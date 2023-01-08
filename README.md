@@ -49,7 +49,6 @@
     <img align='center' src='https://komarev.com/ghpvc/?username=Rikveet&style=flat-square&color=blueviolet'/>
 </details>
 
-## 
 <details>
 <summary> <img src='https://user-images.githubusercontent.com/62815232/211084404-f1c21d43-2f00-4fe7-a3e1-139bc5c9b657.png' width=20/> Recent activity </summary>
 
