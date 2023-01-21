@@ -49,10 +49,10 @@
 <summary> <img src='https://user-images.githubusercontent.com/62815232/211084404-f1c21d43-2f00-4fe7-a3e1-139bc5c9b657.png' width=20/> Recent activity </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1772](https://github.com/anuraghazra/github-readme-stats/issues/1772) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. ❗️ Opened issue [#98](https://github.com/BrockCSC/brockcsc.github.io/issues/98) in [BrockCSC/brockcsc.github.io](https://github.com/BrockCSC/brockcsc.github.io)
-3. 💪 Opened PR [#97](https://github.com/BrockCSC/brockcsc.github.io/pull/97) in [BrockCSC/brockcsc.github.io](https://github.com/BrockCSC/brockcsc.github.io)
-4. 💪 Opened PR [#96](https://github.com/BrockCSC/brockcsc.github.io/pull/96) in [BrockCSC/brockcsc.github.io](https://github.com/BrockCSC/brockcsc.github.io)
+1. ❗️ Opened issue [#104](https://github.com/BrockCSC/brockcsc.github.io/issues/104) in [BrockCSC/brockcsc.github.io](https://github.com/BrockCSC/brockcsc.github.io)
+2. 🗣 Commented on [#1772](https://github.com/anuraghazra/github-readme-stats/issues/1772) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. ❗️ Opened issue [#98](https://github.com/BrockCSC/brockcsc.github.io/issues/98) in [BrockCSC/brockcsc.github.io](https://github.com/BrockCSC/brockcsc.github.io)
+4. 💪 Opened PR [#97](https://github.com/BrockCSC/brockcsc.github.io/pull/97) in [BrockCSC/brockcsc.github.io](https://github.com/BrockCSC/brockcsc.github.io)
 <!--END_SECTION:activity-->
 
 
