@@ -58,5 +58,6 @@
 
 </details>
 
-[![Loading Repo Summary...](https://github-readme-stats-fork-akd2.vercel.app/api/top-langs/?username=rikveet&layout=compact&langs_count=20&theme=midnight-purple&exclude_repo=github-readme-stats-fork&hide=cmake,ShaderLab,HLSL,Mathematica)](https://github.com/Rikveet?tab=repositories)
+<!-- [![Loading Repo Summary...](https://github-readme-stats-fork-akd2.vercel.app/api/top-langs/?username=rikveet&layout=compact&langs_count=20&theme=midnight-purple&exclude_repo=github-readme-stats-fork&hide=cmake,ShaderLab,HLSL,Mathematica)](https://github.com/Rikveet?tab=repositories) -->
+<img src='https://user-images.githubusercontent.com/62815232/218352336-824d17af-ee01-4a9b-9e3c-665857cbaf74.jpg' width=450/>
 
