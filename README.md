@@ -40,7 +40,7 @@
 
 <details>
     <summary> <img src='https://user-images.githubusercontent.com/62815232/211084275-1740136f-472a-42b6-bec7-f6dd4d59f9d2.png' width=20/> Repo Summary</summary>
-    <img align="center" src="https://github-readme-stats-fork-akd2.vercel.app/api?username=rikveet&show_icons=true&theme=midnight-purple&count_private=true" />
+    <img align="center" src="https://github-readme-stats-fork-wheat.vercel.app/api?username=rikveet&show_icons=true&theme=midnight-purple&count_private=true" />
     </br>
     <img align='center' src='https://komarev.com/ghpvc/?username=Rikveet&style=flat-square&color=blueviolet'/>
 </details>
@@ -58,6 +58,6 @@
 
 </details>
 
-<!-- [![Loading Repo Summary...](https://github-readme-stats-fork-akd2.vercel.app/api/top-langs/?username=rikveet&layout=compact&langs_count=20&theme=midnight-purple&exclude_repo=github-readme-stats-fork&hide=cmake,ShaderLab,HLSL,Mathematica)](https://github.com/Rikveet?tab=repositories) -->
-<img src='https://user-images.githubusercontent.com/62815232/218352336-824d17af-ee01-4a9b-9e3c-665857cbaf74.jpg' width=450/>
+[![Loading Repo Summary...](https://github-readme-stats-fork-wheat.vercel.app/api/top-langs/?username=rikveet&layout=compact&langs_count=20&theme=midnight-purple&exclude_repo=github-readme-stats-fork&hide=cmake,ShaderLab,HLSL,Mathematica)](https://github.com/Rikveet?tab=repositories)
+
 
